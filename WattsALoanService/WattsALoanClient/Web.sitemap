@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap>
+  <siteMapNode title="Home" description="Home" url="~/Home.aspx" >
+    <siteMapNode title="Users" description="View web application user controls."
+         url="~/Users.aspx">
+      <siteMapNode title="Financial Advisor"
+           description="Create, modify customers, allocate loans and record payments."
+           url="~/Advisor.aspx" />
+      <siteMapNode title="Manager"
+           description="Create, , delete, modify employees. Create new loans."
+           url="~/Manager.aspx" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

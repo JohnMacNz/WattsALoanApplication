@@ -1,0 +1,13 @@
+c:\users\21500529\documents\visual studio 2013\Projects\WattsALoanApplication\WattsALoanApplication\bin\Debug\WattsALoanApplication.exe.config
+c:\users\21500529\documents\visual studio 2013\Projects\WattsALoanApplication\WattsALoanApplication\obj\Debug\WattsALoanApplication.Advisor.resources
+c:\users\21500529\documents\visual studio 2013\Projects\WattsALoanApplication\WattsALoanApplication\obj\Debug\WattsALoanApplication.Login.resources
+c:\users\21500529\documents\visual studio 2013\Projects\WattsALoanApplication\WattsALoanApplication\obj\Debug\WattsALoanApplication.Manager.resources
+c:\users\21500529\documents\visual studio 2013\Projects\WattsALoanApplication\WattsALoanApplication\obj\Debug\WattsALoanApplication.Resources.resources
+c:\users\21500529\documents\visual studio 2013\Projects\WattsALoanApplication\WattsALoanApplication\obj\Debug\WattsALoanApplication.vbproj.GenerateResource.Cache
+c:\users\21500529\documents\visual studio 2013\Projects\WattsALoanApplication\WattsALoanApplication\bin\Debug\WattsALoanApplication.exe
+c:\users\21500529\documents\visual studio 2013\Projects\WattsALoanApplication\WattsALoanApplication\bin\Debug\WattsALoanApplication.pdb
+c:\users\21500529\documents\visual studio 2013\Projects\WattsALoanApplication\WattsALoanApplication\bin\Debug\WattsALoanApplication.xml
+c:\users\21500529\documents\visual studio 2013\Projects\WattsALoanApplication\WattsALoanApplication\obj\Debug\WattsALoanApplication.exe
+c:\users\21500529\documents\visual studio 2013\Projects\WattsALoanApplication\WattsALoanApplication\obj\Debug\WattsALoanApplication.xml
+c:\users\21500529\documents\visual studio 2013\Projects\WattsALoanApplication\WattsALoanApplication\obj\Debug\WattsALoanApplication.pdb
+C:\Users\21500529\documents\visual studio 2013\Projects\WattsALoanApplication\WattsALoanApplication\obj\Debug\WattsALoanApplication.vbprojResolveAssemblyReference.cache

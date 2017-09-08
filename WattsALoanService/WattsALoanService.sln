@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WattsALoanService", "http://localhost/WattsALoanService", "{83E3A115-2C48-4C6C-892F-7C8AF8DD803F}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/WattsALoanService"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\inetpub\WattsALoanService\WattsALoanService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WattsALoanService\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WattsALoanService"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\inetpub\WattsALoanService\WattsALoanService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WattsALoanService\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\..\..\..\inetpub\WattsALoanService\WattsALoanService\"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83E3A115-2C48-4C6C-892F-7C8AF8DD803F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E3A115-2C48-4C6C-892F-7C8AF8DD803F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
